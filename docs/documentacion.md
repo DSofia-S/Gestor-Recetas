@@ -6,4 +6,9 @@
 * Recetas-Colombias  -- William Villamil
 
 # COMANDOS EJECUTADOS
+* git init
+* git clone
+* gir branch
+* git checkout
+
 
