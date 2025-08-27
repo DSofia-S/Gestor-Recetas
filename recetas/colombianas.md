@@ -8,8 +8,5 @@ Frijoles Antioqueños
 Arroz Blanco
 Carne en polvo
 Chicharrones
-Chorizos Cocidos
-Huevos Fritos
-Tajadas de Plátano
-Aguacate
-Hogao
+laallalalalalalalalal
+chicharrones chicharrones rico rico rico
