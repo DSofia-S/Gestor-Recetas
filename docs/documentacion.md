@@ -17,9 +17,17 @@
 * git push origin v1.0.0
 
 # CAPTURAS DE PANTALLA
-* Captura de pantalla 2025-08-27 150406.png
+
+![alt text](primer-commit.png)
 
 
+![alt text](solucion-conflicto.png)
 
+![alt text](ramas-creadas.png)
 
+![alt text](solucion-conflictos.png)
+
+![alt text](solucion-merge.png)
+
+![alt text](flujo-commits.png)
 
